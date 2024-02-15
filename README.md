@@ -1,4 +1,5 @@
-### Hi there 👋
+# Bio
+Noah Krchak is a hometown Hawkeye with a BSE in Computer Science and Engineering from the University of Iowa and a soon to be graduate of the University of Iowa Electrical and Computer Enginering Masters program with a focus on Software Engineering. These last two semesters of college have exponentially increased his knowledge of Machine Learning and Embedded Software specialized for Internet of Things, and their real-world applications.
 
 ## Socials
 [LinkedIn](https://www.linkedin.com/in/noah-krchak-690b98193?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWMm2mWn0Sn68Unp4Uvce3A%3D%3D)
