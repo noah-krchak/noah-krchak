@@ -3,9 +3,6 @@ Noah Krchak is a first year PhD student in Electrical and Computer Engineering a
 
 He is passionate about augmented reality and the numerous current and upcoming future applications. He values lifelong learning, especially with topics close to his research. He wishes for his research to be beneficial to both the patients and the doctors. He aspires to work in the medical industry developing innovative augmented reality applications. 
 
-![image](https://github.com/user-attachments/assets/2fdf4681-1218-4e99-bd51-388196dacbb2)
-
-
 ## Socials
 [LinkedIn](https://www.linkedin.com/in/noah-krchak-690b98193?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWMm2mWn0Sn68Unp4Uvce3A%3D%3D)
   
