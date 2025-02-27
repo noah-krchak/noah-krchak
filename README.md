@@ -1,5 +1,10 @@
 # Bio
-Noah Krchak is a hometown Hawkeye with a BSE in Computer Science and Engineering from the University of Iowa and a soon to be graduate of the University of Iowa Electrical and Computer Enginering Masters program with a focus on Software Engineering. These last two semesters of college have exponentially increased his knowledge of Machine Learning and Embedded Software specialized for Internet of Things, and their real-world applications.
+Noah Krchak is a first year PhD student in Electrical and Computer Engineering at the University of Iowa studying augmented reality applications in surgical navigation. He is both a teaching assistant and a research assistant. As a teaching assistant he assists with Senior Design, a capstone class for Electrical and Computer Engineering majors in the College of Engineering at the University of Iowa. He teaches lab introduction lectures and assists the students with the labs and semester-long projects. As a research assistant, he works on developing novel augmented reality applications for visualizing surgical navigation. He also attends weekly meetings to discuss research progress and possible next steps for the project.
+
+He is passionate about augmented reality and the numerous current and upcoming future applications. He values lifelong learning, especially with topics close to his research. He wishes for his research to be beneficial to both the patients and the doctors. He aspires to work in the medical industry developing innovative augmented reality applications. 
+
+![image](https://github.com/user-attachments/assets/2fdf4681-1218-4e99-bd51-388196dacbb2)
+
 
 ## Socials
 [LinkedIn](https://www.linkedin.com/in/noah-krchak-690b98193?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWMm2mWn0Sn68Unp4Uvce3A%3D%3D)
